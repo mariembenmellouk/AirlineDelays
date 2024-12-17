@@ -1,0 +1,273 @@
+{
+    "run_id": "253e3879b763499ab1a3b2bb04b8c327",
+    "start_time": 1734118080405,
+    "end_time": null,
+    "params": {},
+    "metrics": {},
+    "airport_data": {
+        "JFK": {
+            "name": "JFK",
+            "location": "Unknown"
+        },
+        "ATL": {
+            "name": "ATL",
+            "location": "Unknown"
+        },
+        "AUS": {
+            "name": "AUS",
+            "location": "Unknown"
+        },
+        "BGR": {
+            "name": "BGR",
+            "location": "Unknown"
+        },
+        "BNA": {
+            "name": "BNA",
+            "location": "Unknown"
+        },
+        "BOS": {
+            "name": "BOS",
+            "location": "Unknown"
+        },
+        "BQN": {
+            "name": "BQN",
+            "location": "Unknown"
+        },
+        "BTV": {
+            "name": "BTV",
+            "location": "Unknown"
+        },
+        "BUF": {
+            "name": "BUF",
+            "location": "Unknown"
+        },
+        "BUR": {
+            "name": "BUR",
+            "location": "Unknown"
+        },
+        "BWI": {
+            "name": "BWI",
+            "location": "Unknown"
+        },
+        "CHS": {
+            "name": "CHS",
+            "location": "Unknown"
+        },
+        "CLE": {
+            "name": "CLE",
+            "location": "Unknown"
+        },
+        "CLT": {
+            "name": "CLT",
+            "location": "Unknown"
+        },
+        "CMH": {
+            "name": "CMH",
+            "location": "Unknown"
+        },
+        "CVG": {
+            "name": "CVG",
+            "location": "Unknown"
+        },
+        "DCA": {
+            "name": "DCA",
+            "location": "Unknown"
+        },
+        "DEN": {
+            "name": "DEN",
+            "location": "Unknown"
+        },
+        "DFW": {
+            "name": "DFW",
+            "location": "Unknown"
+        },
+        "DTW": {
+            "name": "DTW",
+            "location": "Unknown"
+        },
+        "FLL": {
+            "name": "FLL",
+            "location": "Unknown"
+        },
+        "HNL": {
+            "name": "HNL",
+            "location": "Unknown"
+        },
+        "IAD": {
+            "name": "IAD",
+            "location": "Unknown"
+        },
+        "IAH": {
+            "name": "IAH",
+            "location": "Unknown"
+        },
+        "IND": {
+            "name": "IND",
+            "location": "Unknown"
+        },
+        "ITH": {
+            "name": "ITH",
+            "location": "Unknown"
+        },
+        "JAX": {
+            "name": "JAX",
+            "location": "Unknown"
+        },
+        "LAS": {
+            "name": "LAS",
+            "location": "Unknown"
+        },
+        "LAX": {
+            "name": "LAX",
+            "location": "Unknown"
+        },
+        "MCI": {
+            "name": "MCI",
+            "location": "Unknown"
+        },
+        "MCO": {
+            "name": "MCO",
+            "location": "Unknown"
+        },
+        "MIA": {
+            "name": "MIA",
+            "location": "Unknown"
+        },
+        "MKE": {
+            "name": "MKE",
+            "location": "Unknown"
+        },
+        "MSP": {
+            "name": "MSP",
+            "location": "Unknown"
+        },
+        "MSY": {
+            "name": "MSY",
+            "location": "Unknown"
+        },
+        "ONT": {
+            "name": "ONT",
+            "location": "Unknown"
+        },
+        "ORD": {
+            "name": "ORD",
+            "location": "Unknown"
+        },
+        "ORF": {
+            "name": "ORF",
+            "location": "Unknown"
+        },
+        "ORH": {
+            "name": "ORH",
+            "location": "Unknown"
+        },
+        "PBI": {
+            "name": "PBI",
+            "location": "Unknown"
+        },
+        "PDX": {
+            "name": "PDX",
+            "location": "Unknown"
+        },
+        "PHX": {
+            "name": "PHX",
+            "location": "Unknown"
+        },
+        "PIT": {
+            "name": "PIT",
+            "location": "Unknown"
+        },
+        "PSE": {
+            "name": "PSE",
+            "location": "Unknown"
+        },
+        "PSP": {
+            "name": "PSP",
+            "location": "Unknown"
+        },
+        "PWM": {
+            "name": "PWM",
+            "location": "Unknown"
+        },
+        "RDU": {
+            "name": "RDU",
+            "location": "Unknown"
+        },
+        "RIC": {
+            "name": "RIC",
+            "location": "Unknown"
+        },
+        "ROC": {
+            "name": "ROC",
+            "location": "Unknown"
+        },
+        "RSW": {
+            "name": "RSW",
+            "location": "Unknown"
+        },
+        "SAN": {
+            "name": "SAN",
+            "location": "Unknown"
+        },
+        "SAT": {
+            "name": "SAT",
+            "location": "Unknown"
+        },
+        "SAV": {
+            "name": "SAV",
+            "location": "Unknown"
+        },
+        "SEA": {
+            "name": "SEA",
+            "location": "Unknown"
+        },
+        "SFO": {
+            "name": "SFO",
+            "location": "Unknown"
+        },
+        "SJU": {
+            "name": "SJU",
+            "location": "Unknown"
+        },
+        "SLC": {
+            "name": "SLC",
+            "location": "Unknown"
+        },
+        "SMF": {
+            "name": "SMF",
+            "location": "Unknown"
+        },
+        "SNA": {
+            "name": "SNA",
+            "location": "Unknown"
+        },
+        "SRQ": {
+            "name": "SRQ",
+            "location": "Unknown"
+        },
+        "STT": {
+            "name": "STT",
+            "location": "Unknown"
+        },
+        "SYR": {
+            "name": "SYR",
+            "location": "Unknown"
+        },
+        "TPA": {
+            "name": "TPA",
+            "location": "Unknown"
+        },
+        "RNO": {
+            "name": "RNO",
+            "location": "Unknown"
+        },
+        "EGE": {
+            "name": "EGE",
+            "location": "Unknown"
+        },
+        "BZN": {
+            "name": "BZN",
+            "location": "Unknown"
+        }
+    }
+}

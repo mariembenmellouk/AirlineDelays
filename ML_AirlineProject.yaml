@@ -1,0 +1,42 @@
+name: airline_delay_pipeline
+
+# Specify the Conda environment for the pipeline
+conda_env: pipeline_env.yaml
+
+# Define entry points for the pipeline
+entry_points:
+  format_data:
+    parameters:
+      input_file_path:
+        type: str
+        default: "Airline_Delay.csv"
+      output_file_path:
+        type: str
+        default: "formatted_data.csv"
+    command: "python Import_Format_data_v2.py --input_file_path {input_file_path} --output_file_path {output_file_path}"
+
+  clean_data:
+    parameters:
+      input_file_path:
+        type: str
+        default: "formatted_data.csv"
+      output_file_path:
+        type: str
+        default: "cleaned_filtered_data_V2.csv"
+      airport:
+        type: str
+        default: "JFK"
+    command: "python Filter_Clean_Data_V2.py --input_file_path {input_file_path} --output_file_path {output_file_path} --airport {airport}"
+
+  train_model:
+    parameters:
+      input_file_path:
+        type: str
+        default: "cleaned_filtered_data_V2.csv"
+      alpha_values:
+        type: list
+        default: [0.1, 0.5, 1, 10]
+      order_values:
+        type: list
+        default: [1, 2, 3]
+    command: "python MLFlow_experiment_V2.py --input_file_path {input_file_path} --alpha_values {alpha_values} --order_values {order_values}"

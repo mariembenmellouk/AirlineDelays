@@ -1,0 +1,13 @@
+{
+    "run_id": "11d7f23178544bd9abb0cd2c45628810",
+    "start_time": 1734062653774,
+    "end_time": 1734062662297,
+    "params": {
+        "Best Alpha": "10",
+        "Best Order": "3"
+    },
+    "metrics": {
+        "Average Delay": -5.196665031878371,
+        "Best Mean Squared Error": 377.2667541020558
+    }
+}
